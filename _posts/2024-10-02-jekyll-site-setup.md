@@ -9,12 +9,20 @@ tag: [jeykll, tutorial]
 
 <!-- # Build your own site hosted in Github using Jekyll -->
 
-## Installation Steps
+## 1. Installation Steps
 We write all posts in markdown language `(.md)` and keep them in the `_posts` folder.
 
-### Links for references
+Lock the platform to Linux as GitHub runs on Linux\
+`
+bundle lock --add-platform x86_64-linux
+`
+## 2. Screenshots
+![bundle exec jekyll s](/assets/images/bundle-command.png)
+
+## 3. Links for references
 [chirpy-starter](https://github.com/cotes2020/chirpy-starter)\
 [Chirpy Site Tutorial](https://chirpy.cotes.page/)\
+[Markdown cheat Sheet](https://www.markdownguide.org/cheat-sheet/)\
 [Create a Digital Garden using Jekyll and GitHub Pages](https://www.youtube.com/watch?v=fX8d3SgdTbo)\
 [Jekyll on Windows And Github Pages Hosting](https://www.youtube.com/watch?v=mJ8B-tH5S9g)\
 [YouTube: Meet Jekyll - The Static Site Generator](https://www.youtube.com/watch?v=F8iOU1ci19Q)
