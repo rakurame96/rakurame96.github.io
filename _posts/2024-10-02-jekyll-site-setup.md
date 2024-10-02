@@ -7,17 +7,27 @@ categories: [jeykll-setup]
 tag: [jeykll, tutorial]
 ---
 
-<!-- # Build your own site hosted in Github using Jekyll -->
+# Build your own site hosted in Github using Jekyll
 
 ## 1. Installation Steps
 We write all posts in markdown language `(.md)` and keep them in the `_posts` folder.
 
-Lock the platform to Linux as GitHub runs on Linux\
-`
-bundle lock --add-platform x86_64-linux
-`
+Lock the platform to Linux as GitHub runs on Linux
+
+    bundle lock --add-platform x86_64-linux
+
+### paste as code
+`bundle lock --add-platform x86_64-linux`
+
 ## 2. Screenshots
 ![bundle exec jekyll s](/assets/images/bundle-command.png)
+
+in italics -> *hi*
+in bold -> **hi**
+in bold+italics -> ***hi***
+strike out -> ~~hi~~
+highlight -> <mark>hi</mark>
+add picture -> ![picture](/assets/images/bundle-command.png)
 
 ## 3. Links for references
 [chirpy-starter](https://github.com/cotes2020/chirpy-starter)\
