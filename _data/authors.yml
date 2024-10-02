@@ -1,0 +1,13 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+Rakuram:
+  name: Rakuram. E
+  linkedin: https://www.linkedin.com/in/rakuram/
+  # twitter: its_me_rakuram
+  url: https://github.com/rakurame96/
