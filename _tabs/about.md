@@ -13,4 +13,4 @@ I’m passionate about **continuous learning** and enjoy exploring new technolog
 I shared my professional journey with a group of early career enthusiasts. Don't forget to watch the below video:
 {% include embed/youtube.html id='XqJOG-tTLBM' %}
 
-In recent days, I love watch mostly sci-fi, rom-com movies. If you want to discuss with me, please feel free to write on [LinkedIn](https://www.linkedin.com/in/rakuram) or E-Mail me over here (mailto:blog.rakuram@gmail.com)
+In recent days, I love watch mostly sci-fi, rom-com movies. If you want to discuss with me, please feel free to write on [LinkedIn](https://www.linkedin.com/in/rakuram) or E-Mail me over here [mail](mailto:blog.rakuram@gmail.com)
