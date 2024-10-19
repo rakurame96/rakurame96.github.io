@@ -17,6 +17,7 @@ _**Update on 30-Jun-2024**: Below link is no longer valid:_
 
 New link for the website: [Cryptography Textbook](https://www.cryptography-textbook.com/)  
 Slides: [Slides](https://www.cryptography-textbook.com/files/slides_1st.zip)
+YouTube Playlist: [Introduction to Cryptography by Christof Paar](https://www.youtube.com/@introductiontocryptography4223/videos)
 
 ### 2. [Computerphile](https://www.youtube.com/user/Computerphile)
 This YouTube channel breaks down complicated cybersecurity concepts into **easy-to-understand** terms. They take complex ideas and explain them in simple, relatable ways. Perfect for anyone trying to understand tough cybersecurity topics!
