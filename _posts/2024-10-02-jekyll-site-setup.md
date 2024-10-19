@@ -39,3 +39,5 @@ add picture -> ![picture](/assets/images/bundle-command.png)\
 [Meet Jekyll - The Static Site Generator](https://technotim.live/posts/jekyll-docs-site/)\
 [🎉 Develop GitHub Pages locally in a Ubuntu Docker Container (latest)](https://www.youtube.com/watch?v=zijOXpZzdvs&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq&index=3&t=14s)\
 [GitHub Pages and Jekyll](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq)
+
+***Disclaimer**: All views expressed here are my own and do not reflect the opinions of any organization I’m affiliated with. Any external links shared are for informational purposes only, and I do not claim ownership of the content found on those external sites.*

@@ -14,3 +14,5 @@ I shared my professional journey with a group of early career enthusiasts. Don't
 {% include embed/youtube.html id='XqJOG-tTLBM' %}
 
 In recent days, I love watch mostly sci-fi, rom-com movies. If you want to discuss with me, please feel free to write on [LinkedIn](https://www.linkedin.com/in/rakuram) or E-Mail me over here [mail](mailto:blog.rakuram@gmail.com)
+
+*Note: All views expressed here are my own and do not reflect any organization I’m affiliated with.*
