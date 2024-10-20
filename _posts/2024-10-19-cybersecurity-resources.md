@@ -1,13 +1,13 @@
 ---
 layout: post
 # title: Jekyll Site Setup
-title: Deep Dive into Cybersecurity - Essential Resources for Automotive & Embedded Systems
+title: Essential Cryptography Resources for Embedded and Automotive Systems
 date: 19-10-2024 23:40:00
-categories: [cybersecurity]
-tag: [cybersecurity, useful-links]
+categories: [cybersecurity, cryptography]
+tag: [cybersecurity, cryptography, Embedded Systems, Automotive-Security, useful-links]
 ---
 
-Learning cybersecurity is an ongoing challenge, especially in the fast-evolving world of **automotive and embedded systems**. If you're looking to get started or expand your knowledge in this area, here are three incredible, **free resources** that I highly recommend. These resources are gold mines of information!
+Learning **cybersecurity**, especially cryptography, is key for anyone interested in **automotive and embedded systems**. If you're eager to dive deeper into cryptography, here are three **free, must-have resources** that I highly recommend. These are gold mines of knowledge!
 
 ### 1. Introduction to Cryptography by Christof Paar
 This is a series of 24 lectures on cryptography. If you have questions about cryptography and how it works, these lectures bundle everything together in a simple, structured manner. It covers **most of the mechanisms used in embedded systems**.
@@ -15,9 +15,9 @@ This is a series of 24 lectures on cryptography. If you have questions about cry
 _**Update on 30-Jun-2024**: Below link is no longer valid:_
 - Previous link: [Introduction to Cryptography by Christof Paar](https://crypto-textbook.com/)
 
-New link for the website: [Cryptography Textbook](https://www.cryptography-textbook.com/)  
-Slides: [Slides](https://www.cryptography-textbook.com/files/slides_1st.zip)
-YouTube Playlist: [Introduction to Cryptography by Christof Paar](https://www.youtube.com/@introductiontocryptography4223/videos)
+New link for the website: [Cryptography Textbook](https://www.cryptography-textbook.com/) \
+Slides: [Slides](https://www.cryptography-textbook.com/files/slides_1st.zip) \
+YouTube Playlist: [Introduction to Cryptography by Christof Paar](https://www.youtube.com/@introductiontocryptography4223/videos) \
 
 ### 2. [Computerphile](https://www.youtube.com/user/Computerphile)
 This YouTube channel breaks down complicated cybersecurity concepts into **easy-to-understand** terms. They take complex ideas and explain them in simple, relatable ways. Perfect for anyone trying to understand tough cybersecurity topics!
