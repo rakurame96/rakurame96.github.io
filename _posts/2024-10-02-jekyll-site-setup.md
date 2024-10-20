@@ -27,7 +27,7 @@ in bold -> **hi**\
 in bold+italics -> ***hi***\
 strike out -> ~~hi~~\
 highlight -> <mark>hi</mark>\
-add picture -> ![picture](/assets/images/bundle-command.png)\
+add picture -> ![picture](/assets/img/post-images/bundle-command.png)\
 
 ## 3. Links for references
 [chirpy-starter](https://github.com/cotes2020/chirpy-starter)\
