@@ -20,7 +20,7 @@ Lock the platform to Linux as GitHub runs on Linux (plain text)
 `bundle lock --add-platform x86_64-linux`
 
 ## 2. Screenshots
-![bundle exec jekyll s](/assets/images/bundle-command.png)
+![bundle exec jekyll s](/assets/img/post-images/bundle-command.png)
 
 in italics -> *hi*\
 in bold -> **hi**\
