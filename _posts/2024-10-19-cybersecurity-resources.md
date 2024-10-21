@@ -25,6 +25,12 @@ This YouTube channel breaks down complicated cybersecurity concepts into **easy-
 ### 3. [Practical Network - Practical TLS](https://www.youtube.com/watch?v=HMoFvRK4HUo&list=PLIFyRwBY_4bTwRX__Zn4-letrtpSj1mzY&ab_channel=PracticalNetworking)
 For those who want to dive deeper into **computer science topics**, this channel offers a wide range of in-depth discussions. Practical TLS is just one example of the valuable content they produce to simplify complex concepts.
 
+### 4. [Cryptography 101 with Alfred Menezes](https://cryptography101.ca/)
+This site contains the courses which covers the fundamental cryptographic primitives, Error-Correcting Codes and much more.
+
+- [Crypto 101: Building Blocks - YouTube Playlist](https://www.youtube.com/playlist?list=PLA1qgQLL41SRsHMtsb4up5fTytDeHV_yJ)
+- [Other Site Resources](https://cryptography101.ca/resources/)
+
 ---
 
 How about you? What are you currently working on in your learning journey? Comment below or get in touch, and let's explore these topics together!
@@ -33,6 +39,10 @@ _Original LinkedIn post: [Cybersecurity Learning Resources](https://www.linkedin
 
 ---
 
+---
+
 *More resources will be added in due time, so stay tuned for future updates!*
 
 ***Disclaimer**: All views expressed here are my own and do not reflect the opinions of any organization I’m affiliated with. Any external links shared are for informational purposes only, and I do not claim ownership of the content found on those external sites.*
+
+---

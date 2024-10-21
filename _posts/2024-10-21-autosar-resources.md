@@ -3,7 +3,7 @@ layout: post
 title: AUTOSAR and UDS Learning Resources for Beginners
 date: 21-10-2024 22:45:00
 categories: [AUTOSAR, UDS]
-tag: [AUTOSAR, UDS, useful-links, automotive]
+tag: [AUTOSAR, UDS, automotive, useful-links]
 ---
 
 ### AUTOSAR Online Videos for Beginners
