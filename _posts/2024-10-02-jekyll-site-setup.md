@@ -27,7 +27,7 @@ in bold -> **hi**\
 in bold+italics -> ***hi***\
 strike out -> ~~hi~~\
 highlight -> <mark>hi</mark>\
-add picture -> ![picture](/assets/img/post-images/bundle-command.png)\
+add picture -> ![picture](/assets/img/post-images/bundle-command.png)
 
 ## 3. Table Generation
 Use this site to generate the table
