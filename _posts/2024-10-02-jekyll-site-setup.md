@@ -29,7 +29,14 @@ strike out -> ~~hi~~\
 highlight -> <mark>hi</mark>\
 add picture -> ![picture](/assets/img/post-images/bundle-command.png)\
 
-## 3. Links for references
+## 3. Table Generation
+Use this site to generate the table
+[Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
+
+## 4. Jekyll SEO Tags
+[jekyll-seo-tag GitHub Guide](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) 
+
+## 4. Links for references
 [chirpy-starter](https://github.com/cotes2020/chirpy-starter)\
 [Chirpy Site Tutorial](https://chirpy.cotes.page/)\
 [Markdown cheat Sheet](https://www.markdownguide.org/cheat-sheet/)\
